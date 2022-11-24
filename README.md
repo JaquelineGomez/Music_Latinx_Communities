@@ -1,3 +1,7 @@
-# Women in Musica Nortena
+# Violence Towards Women in Corridos
+theme: minima
 
-###Recognizing the role women had and continue to have in Music.
+### Delgadina
+###chalino sanchez 
+###Rosita Alvírez
+###https://www.musica.com/letras.asp?letra=2212017
